@@ -72,5 +72,6 @@ $ python console query_student studentid <StudentID> <Student's Private Key>
 ```
 
 When students' accounts are created, they'll broadcast to teacher and miner nodes.
+
 When a new block is mined, the block and transactions will broadcast to other nodes.
 
