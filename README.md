@@ -1,2 +1,0 @@
-# E-Transcript-Blockchain-System
-
