@@ -57,7 +57,7 @@ $ python console tx list
 $ python console blockchain list
 ```
 
-## Query
+## Query.
 Teacher Query.
 ```
 $ python console query_teacher studentid <StudentID>
